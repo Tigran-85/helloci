@@ -6,7 +6,7 @@
     <packaging>jar</packaging>
     <version>1.0-SNAPSHOT</version>
     <name>hello-ci</name>
-    <url>https://github.com/vitalliuss/helloci</url>
+    <url>https://github.com/Tigran-85/helloci</url>
     <properties>
 	<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding> 
         <maven.compiler.source>1.8</maven.compiler.source>
@@ -29,7 +29,7 @@
                     </descriptorRefs>
                     <archive>
                         <manifest>
-                            <mainClass>com.github.vitalliuss.helloci.App</mainClass>
+                            <mainClass>com.github.Tigran-85.helloci.App</mainClass>
                         </manifest>
                     </archive>
                 </configuration>
